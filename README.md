@@ -1,3 +1,4 @@
+https://en.wikipedia.org/wiki/Cholesky_decomposition
 # cholesky-decomposition
 cholesky decomposition coded in Fortran 77 copied from topic coverage on Rosetta Code
 (15:19 ian@ian-Aspire-One-753 source) > gfortran cholesky.f -ffree-form -o cholesky
